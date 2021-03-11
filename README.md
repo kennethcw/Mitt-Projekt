@@ -1,2 +1,2 @@
-#MyApp
-Detta är min app
+# Mitt Projekt
+Detta är mitt projekt
